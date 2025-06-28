@@ -1,9 +1,9 @@
 # 🎮 Mini Game
 This project is a game app made with HTML, CSS, and JavaScript. It has two mini-games:
 
-#  💯 Number guessing game: you try to guess a random number by entering numbers and getting hints.
+####  💯 Number guessing game: you try to guess a random number by entering numbers and getting hints.
 
-#  Valorant player guessing game – a Wordle‑style guessing game where you have 10 tries to figure out a hidden Valorant player based on six clues.
+####  Valorant player guessing game – a Wordle‑style guessing game where you have 10 tries to figure out a hidden Valorant player based on six clues.
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
